@@ -26,6 +26,12 @@ const testimonialsData = [
     content: "Palak's dedication to quality code and clean architecture made her an asset to our team. She consistently delivered high-quality work while maintaining excellent communication.",
     avatar: "/placeholder.svg"
   }
+  {
+   id: 3,
+    name: "Mehak Patel",
+    role: "BCA UG Student",
+    content: "Palak is a fantastic developer—creative, hardworking, and always brings positive energy to the team. You can always count on her to get things done with a smile!"
+   avatar: "/placeholder.svg"
 ];
 
 const Testimonials = () => {
