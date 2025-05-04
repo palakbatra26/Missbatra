@@ -21,10 +21,11 @@ const testimonialsData = [
   },
   {
    id: 3,
-    name: "Mehak Patel",
+    name: "Mehak ",
     role: "BCA UG Student",
     content: "Palak is a fantastic developer—creative, hardworking, and always brings positive energy to the team. You can always count on her to get things done with a smile!"
    avatar: "/placeholder.svg"
+}
 ];
 
 const Testimonials = () => {
