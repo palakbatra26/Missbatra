@@ -20,13 +20,6 @@ const testimonialsData = [
     avatar: "/placeholder.svg"
   },
   {
-    id: 3,
-    name: "Amit Patel",
-    role: "CTO at InnovateTech",
-    content: "Palak's dedication to quality code and clean architecture made her an asset to our team. She consistently delivered high-quality work while maintaining excellent communication.",
-    avatar: "/placeholder.svg"
-  }
-  {
    id: 3,
     name: "Mehak Patel",
     role: "BCA UG Student",
